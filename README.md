@@ -1,2 +1,0 @@
-# jackli
-an undergraduate student
